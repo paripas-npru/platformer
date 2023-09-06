@@ -1,0 +1,15 @@
+{
+  "name": "Hero of Artisan Tourism",
+  "short_name": "Hero of Artisan Tourism",
+  "id": "com.BoysofT.HeroOfArtisanTourism",
+  "description": "Let's become a hero of artisan tourism.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "app_icon_512_512.png",
+        "sizes": "512x512"
+      }]
+}
